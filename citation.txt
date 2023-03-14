@@ -1,0 +1,7 @@
+@article{REPO-240,
+    author = "Huang, Jiaxing",
+    journal = "Proceedings of the IEEE/CVF international conference on computer vision",
+    pages = "8988-8999",
+    title = "{RDA: Robust Domain Adaptation via Fourier Adversarial Attacking}",
+    year = "2021"
+}
